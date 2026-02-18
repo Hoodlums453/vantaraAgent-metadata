@@ -1,10 +1,9 @@
 {
   "name": "Vantara Agent",
   "symbol": "VAGENT",
-  "description": "Vantara Agent — advanced AI agent token on Solana, powering autonomous operations.",
-  "https://raw.githubusercontent.com/Hoodlums453/vantaraAgent-metadata/refs/heads/main/VantaraAgent_jpeg.jpg",
+  "description": "Vantara Agent — Advanced AI-powered agent token on Solana, enabling autonomous operations and intelligent automation.",
+  "image": "https://raw.githubusercontent.com/Hoodlums453/vantaraAgent-metadata/refs/heads/main/VantaraAgent_jpeg.jpg",
   "twitter": "https://x.com/VantaraAgent",
   "website": "https://vantaraagent.io",
-  "telegram": "https://t.me/VantaraAgent",
-  "tags": ["ai", "agent", "solana", "automation"]
+  "telegram": "https://t.me/VantaraAgent"
 }
